@@ -1,11 +1,10 @@
 ---
 link: https://www.physio-pedia.com/Hoehn_and_Yahr_Scale
 type: MedicalNote
-tags: neurology medical Parkinsonism
+tags: neurology Parkinsonism
 ---
 
-# Unified Parkinson's Disease Rating Scale
-## Objective 
+# Unified Parkinson's Disease Rating Scale[[Corticobasal degeneration]]## Objective 
 ***
 Unified Parkinson's Disease Rating Scale (UPDRS) is a rating tool used to gauge the the severity and progression of [[Parkinson's disease]] in patients[1].  The UPDRS scale consists of the following six segments: 1) Mentation, Behavior, and Mood, 2) ADL, 3) Motor sections, 4)  Complications of Therapy (in the past week) 5) Modified [[Hoehn and Yahr Scale]] , and 6) Schwab and England ADL scale. The first four segments are made up of 42 items grouped into four subscales. The UPDRS was developed in 1987 as a gold standard by neurologists for monitoring the response to medications used to decrease the signs and symptoms of `Parkinson's`.
 

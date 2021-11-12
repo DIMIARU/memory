@@ -1,5 +1,5 @@
 ---
-tags: neurology medical Parkinsonism
+tags: neurology Parkinsonism neurodegenerative
 type: MedicalNote
 link: https://www.nhs.uk/conditions/parkinsons-disease/
 ---

@@ -1,6 +1,6 @@
 ---
 type: MedicalNote
-tags: medical neurology Parkinsonism
+tags: neurology Parkinsonism
 link: https://www.physio-pedia.com/Hoehn_and_Yahr_Scale
 ---
 
